@@ -23,7 +23,7 @@ function Footer() {
 
         <span>
           <FaMessage />
-          kunal@gmail.com
+          divya@gmail.com
         </span>
       </div>
       <div className="line"></div>
