@@ -24,12 +24,12 @@ function Nav() {
           <button className="btn-primary">logout</button>
         </Link>
 
-        {/* <Link to="/studentLogin">
+      <Link to="/studentLogin">
           <button className="btn-primary">Student login</button>
         </Link>
         <Link to="/AdminPortalLogin">
           <button className="btn-secondary">Admin Portal</button>
-        </Link> */}
+        </Link> 
       </div>
     </nav>
   );
